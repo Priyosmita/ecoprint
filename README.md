@@ -8,7 +8,7 @@
 
 ## 🚀 Introduction
 
-EcoPrint is a powerful web application designed to empower individuals and organizations to understand, manage, and reduce their carbon footprints. <br/>Leveraging <b>Cutting-edge AI technology</b>, <b>Secure Decentralized Data Storage</b>, and <b>Interactive VisualizationTtools</b>, EcoPrint offers a comprehensive and user-friendly platform for promoting sustainable living and environmental stewardship.
+EcoPrint is a powerful web application designed to empower individuals and organizations to understand, manage, and reduce their carbon footprints. <br/>Leveraging <b>Cutting-edge AI technology</b>, <b>Secure Data Storage</b>, and <b>Interactive VisualizationTtools</b>, EcoPrint offers a comprehensive and user-friendly platform for promoting sustainable living and environmental stewardship.
 
 ## 🔥 Features & Perks
 
@@ -63,4 +63,4 @@ EcoPrint is a powerful web application designed to empower individuals and organ
 - Web-Server: <br/> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="50" height="50"/>
 
 ## 💫 In a nutshell
-EcoPrint is more than just a tool; it's a commitment to a sustainable future. By empowering individuals with accurate carbon footprint calculations, personalized reduction strategies, and real-time global insights, EcoPrint fosters a proactive approach to environmental stewardship. With the security of a dedicated decentralised database and the intelligence of advanced AI, EcoPrint ensures that users can make informed, impactful decisions for a greener tomorrow. Join us in our mission to reduce carbon footprints and create a sustainable world for generations to come.
+EcoPrint is more than just a tool; it's a commitment to a sustainable future. By empowering individuals with accurate carbon footprint calculations, personalized reduction strategies, and real-time global insights, EcoPrint fosters a proactive approach to environmental stewardship. With the security of a dedicated database and the intelligence of advanced AI, EcoPrint ensures that users can make informed, impactful decisions for a greener tomorrow. Join us in our mission to reduce carbon footprints and create a sustainable world for generations to come.
