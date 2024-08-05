@@ -1,0 +1,19 @@
+/* styles.css */
+.info-box {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-box h2 {
+    margin: 0 0 10px;
+  }
+  
+  .info-box p {
+    margin: 5px 0;
+  }
+  
