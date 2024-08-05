@@ -1,7 +1,7 @@
 # EcoPrint <br/> Track your Impact, Shrink your Footprint
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/17c92f17-c60e-4da8-9cf0-15756483e544" alt="EcoPrint logo">
+  <img src="https://github.com/user-attachments/assets/adb0aad3-906a-481d-856d-4a4c6469de34" alt="EcoPrint logo">
 </div>
 
 ## [📝 Click to view Medium Blog](https://medium.com/@daspriyosmita2003/ecoprint-track-your-impact-shrink-your-footprint-15c5d55c6ee3)
@@ -10,7 +10,7 @@
 
 EcoPrint is a powerful web application designed to empower individuals and organizations to understand, manage, and reduce their carbon footprints. <br/>Leveraging <b>Cutting-edge AI technology</b>, <b>Secure Decentralized Data Storage</b>, and <b>Interactive VisualizationTtools</b>, EcoPrint offers a comprehensive and user-friendly platform for promoting sustainable living and environmental stewardship.
 
-## 🍃 Features
+## 🔥 Features & Perks
 
 1. **Personalized Carbon Footprint Calculation**
    - Dual-Mode Calculator: Offers quick estimation and detailed analysis options for carbon footprint assessment.
@@ -33,16 +33,12 @@ EcoPrint is a powerful web application designed to empower individuals and organ
 7. **Continuous Learning and Improvement**
     - Feedback Mechanism: Incorporates user feedback to continuously improve accuracy and effectiveness of carbon footprint assessments.
 
-## Perks
+## 🛠 System Architecture
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1605f051-8c6c-40aa-8dfc-58067f6f7885" alt="EcoPrint System Architecture">
+</div>
 
-- **Dual Calculation Modes**: Tailored to user preferences with both quick and detailed options for carbon footprint calculation.
-- **AI-Curated Action Plans**: Personalized strategies to reduce carbon footprint based on individual data.
-- **Decentralized Data Storage**: Ensures secure and private data management with user-controlled access.
-- **Interactive 3D Globe**: Visual and interactive monitoring of global carbon data.
-- **Machine Learning-Powered Insights**: Adapts to evolving sustainability challenges, detecting sophisticated trends.
-- **User-Friendly Interface**: Simplifies the process for tracking carbon footprints and accessing global data.
-
-## Applications
+## 📈 Applications
 
 - **Individual Users**: Empowering individuals to understand and reduce their carbon footprints with personalized insights.
 - **Educational Institutions**: A valuable tool for teaching environmental science and sustainability principles.
@@ -52,11 +48,11 @@ EcoPrint is a powerful web application designed to empower individuals and organ
 - **Community and Advocacy Groups**: Engaging community members in collective efforts for sustainability.
 - **Global Impact**: Contributing to global efforts in combating climate change and promoting environmental stewardship.
 
-## TechStack
+## ⚙️ TechStack
 
-#### Frontend: Next.js, HTML5, CSS3, Tailwind CSS, JavaScript, Three.js, React.js
+- Frontend:</br> <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="javascript" width="40" height="40"/>
 
-#### Backend: Flask, NumPy, Pandas, OpenAI
+ - Backend:</br> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="axios" width="100" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="50" height="50"/> <img src="https://static.vecteezy.com/system/resources/thumbnails/022/227/366/small_2x/openai-chatgpt-logo-icon-free-png.png" alt="pandas" width="50" height="50"/>  
 
 #### Database: Ethereum Blockchain, BigchainDB
 
