@@ -54,15 +54,13 @@ EcoPrint is a powerful web application designed to empower individuals and organ
 
  - Backend:</br> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="axios" width="100" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="50" height="50"/> <img src="https://static.vecteezy.com/system/resources/thumbnails/022/227/366/small_2x/openai-chatgpt-logo-icon-free-png.png" alt="pandas" width="50" height="50"/>  
 
-#### Database: Ethereum Blockchain, BigchainDB
+- Database:</br> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="70" height="70"/> <img src="https://media.licdn.com/dms/image/D4D12AQEk8opKsyHhRQ/article-cover_image-shrink_720_1280/0/1693917399837?e=2147483647&v=beta&t=6LPN-E9p8k_59NMv17edpwj8ofRzcXd_vlmlFoc1fLw" alt="mongoose" width="80" height="80"/>
 
-#### AI-ML: TensorFlow, Python, Scikit-Learn
+- AI-ML:</br> <img src="https://hackr.io/tutorials/learn-tensorflow/og_image" alt="tensorflow" width="50" height="50"/> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="85" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="50" height="50"/>
 
-#### Authentication: Clerk
+- Authentication: <br/> <img src="https://elysiajs.com/assets/clerk.webp" alt="clerk" width="40" height="40"/>
 
-#### Web-Server: NGINX
+- Web-Server: <br/> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="50" height="50"/>
 
-## Ending Note
-
-EcoPrint is more than just a tool; it's a commitment to a sustainable future. By empowering individuals with accurate carbon footprint calculations, personalized reduction strategies, and real-time global insights, EcoPrint fosters a proactive approach to environmental stewardship. With the security of blockchain technology and the intelligence of advanced AI, EcoPrint ensures that users can make informed, impactful decisions for a greener tomorrow. Join us in our mission to reduce carbon footprints and create a sustainable world for generations to come.
-
+## 💫 In a nutshell
+EcoPrint is more than just a tool; it's a commitment to a sustainable future. By empowering individuals with accurate carbon footprint calculations, personalized reduction strategies, and real-time global insights, EcoPrint fosters a proactive approach to environmental stewardship. With the security of a dedicated decentralised database and the intelligence of advanced AI, EcoPrint ensures that users can make informed, impactful decisions for a greener tomorrow. Join us in our mission to reduce carbon footprints and create a sustainable world for generations to come.
