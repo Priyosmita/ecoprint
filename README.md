@@ -60,7 +60,7 @@ EcoPrint is a powerful web application designed to empower individuals and organ
 
 - Authentication: <br/> <img src="https://elysiajs.com/assets/clerk.webp" alt="clerk" width="40" height="40"/>
 
-- Web-Server: <br/> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="50" height="50"/>
+- Web-Server: <br/> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="50" height="55"/>
 
 ## 💫 In a nutshell
 EcoPrint is more than just a tool; it's a commitment to a sustainable future. By empowering individuals with accurate carbon footprint calculations, personalized reduction strategies, and real-time global insights, EcoPrint fosters a proactive approach to environmental stewardship. With the security of a dedicated database and the intelligence of advanced AI, EcoPrint ensures that users can make informed, impactful decisions for a greener tomorrow. Join us in our mission to reduce carbon footprints and create a sustainable world for generations to come.
