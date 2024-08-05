@@ -139,7 +139,7 @@ const GlobeComponent = () => {
   }
 
   return (
-    <div>
+    <div className='overflow-hidden'>
       <div ref={globeEl}></div>
       {selectedPoint && (
         <div className="info-box">
